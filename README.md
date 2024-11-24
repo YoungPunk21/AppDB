@@ -16,7 +16,7 @@
 
 ### Шаг 1: Клонировать репозиторий (если используется Git)
 
-git clone [https://github.com/yourusername/user-database-app.git](https://github.com/YoungPunk21/AppDB.git)
+git clone https://github.com/YoungPunk21/AppDB.git
 
 
 ### Шаг 2: Установить зависимости
