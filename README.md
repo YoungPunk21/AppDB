@@ -16,8 +16,8 @@
 
 ### Шаг 1: Клонировать репозиторий (если используется Git)
 
-git clone https://github.com/yourusername/user-database-app.git
-cd user-database-app
+git clone [https://github.com/yourusername/user-database-app.git](https://github.com/YoungPunk21/AppDB.git)
+
 
 ### Шаг 2: Установить зависимости
 Для установки библиотеки PyQt5 используйте pip:
